@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kinlog Support</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.65;
+      margin: 0;
+      color: #1f1f1f;
+      background: #fff;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 32px 20px 64px;
+    }
+    h1, h2, h3 {
+      line-height: 1.3;
+      margin-top: 1.4em;
+    }
+    h1 {
+      margin-top: 0;
+      font-size: 1.9rem;
+    }
+    h2 {
+      font-size: 1.3rem;
+      border-top: 1px solid #e7e7e7;
+      padding-top: 18px;
+    }
+    .meta {
+      color: #606060;
+      margin: 0.2rem 0;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .card {
+      border: 1px solid #ececec;
+      border-radius: 12px;
+      padding: 14px 16px;
+      background: #fafafa;
+      margin: 10px 0;
+    }
+    a {
+      color: #0b57d0;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Kinlog Support</h1>
+    <p class="meta"><strong>App:</strong> Kinlog</p>
+    <p class="meta"><strong>Last updated:</strong> [April 2026]</p>
+    <p>Need help with Kinlog? This page covers common questions, troubleshooting, and how to contact support.</p>
+    <h2>Contact Support</h2>
+    <div class="card">
+      <p><strong>Email:</strong> <a href="mailto:[lianshao@outlook.jp]">[lianshao@outlook.jp]</a></p>
+      <p><strong>Response time:</strong> Usually within 2-3 business days.</p>
+      <p><strong>Please include:</strong> iOS version, device model, app version, and steps to reproduce the issue.</p>
+    </div>
+    <h2>Frequently Asked Questions</h2>
+    <h3>How do I add a person?</h3>
+    <p>Open the People section and tap <strong>Add New Person</strong>.</p>
+    <h3>How do I attach logs to a contact?</h3>
+    <p>When creating or editing a log entry, select one or more people in the <strong>Who was involved</strong> area.</p>
+    <h3>How does contact sharing work?</h3>
+    <p>You can share selected contact information from inside the app. Only data you explicitly choose to share is exported.</p>
+    <h3>How do follow-up reminders work?</h3>
+    <p>Enable follow-up on a log, then choose reminder timing. Make sure Notifications are allowed in iOS Settings.</p>
+    <h3>How do I use app lock / Face ID?</h3>
+    <p>Go to Settings in Kinlog and enable App Lock. If Face ID is available, iOS will prompt you for permission.</p>
+    <h3>How do I back up my data?</h3>
+    <p>Use Kinlog's backup/export options. If iCloud features are enabled, data may also sync through your Apple account.</p>
+    <h2>Troubleshooting</h2>
+    <h3>Notifications are not arriving</h3>
+    <ul>
+      <li>Check iOS Settings &gt; Notifications &gt; Kinlog and allow alerts.</li>
+      <li>Confirm reminder time is set in the app.</li>
+      <li>Disable Focus mode or check allowed apps.</li>
+    </ul>
+    <h3>Location is missing on logs</h3>
+    <ul>
+      <li>Check iOS Settings &gt; Privacy &amp; Security &gt; Location Services &gt; Kinlog.</li>
+      <li>Allow location access if you want place context.</li>
+    </ul>
+    <h3>App is not unlocking with Face ID</h3>
+    <ul>
+      <li>Verify Face ID is enabled for Kinlog in iOS Settings.</li>
+      <li>Restart the app and try again.</li>
+      <li>If needed, disable and re-enable App Lock in Kinlog settings.</li>
+    </ul>
+    <h2>Data &amp; Privacy</h2>
+    <p>For details about how we handle data, please read our Privacy Policy:</p>
+    <p><a href="../PrivacyPolicy/privacy-policy-en.html">View Privacy Policy (English)</a></p>
+    <h2>Compatibility</h2>
+    <p>Kinlog requires a supported iPhone or iPad running a recent iOS/iPadOS version available on the App Store listing.</p>
+    <h2>Report a Bug or Request a Feature</h2>
+    <p>Send us an email at <a href="mailto:[lianshao@outlook.jp]">[lianshao@outlook.jp]</a> with the subject:</p>
+    <ul>
+      <li><code>Bug Report - Kinlog</code></li>
+      <li><code>Feature Request - Kinlog</code></li>
+    </ul>
+  </main>
+</body>
+</html>
